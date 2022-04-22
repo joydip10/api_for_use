@@ -1,0 +1,47 @@
+[
+    {
+      "name": "Black Widow",
+      "price": 16000,
+      "image": "https://ibb.co/zsvzY73"
+    },
+    {
+      "name": "HULK",
+      "price": 15000,
+      "image": "https://ibb.co/qWhX4tH"
+    },
+    {
+      "name": "Captain America",
+      "price": 20000,
+      "image": "https://ibb.co/Kr93N25"
+    },
+    {
+      "name": "Falcon",
+      "price": 10000,
+      "image": "https://ibb.co/0FTh6FX"
+    },
+    {
+      "name": "Hawkeye",
+      "price": 11000,
+      "image": "https://ibb.co/bKbQTz2"
+    },
+    {
+      "name": "LOKI",
+      "price": 12000,
+      "image": "https://ibb.co/7NH2sNv"
+    },
+    {
+      "name": "War Machine",
+      "price": 5000,
+      "image": "https://ibb.co/KbX2VY1"
+    },
+    {
+      "name": "Thor",
+      "price": 25000,
+      "image": "https://ibb.co/rktHZJR"
+    },
+    {
+      "name": "Iron Man",
+      "price": 30000,
+      "image": "https://ibb.co/qJtMpct"
+    }
+  ]
